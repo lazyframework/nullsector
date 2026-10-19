@@ -1,0 +1,11 @@
+{
+  "name": "irc/null-sector",
+  "description": "IRC-style chat with WebSocket",
+  "require": {
+    "php": ">=8.0",
+    "cboden/ratchet": "^0.4.4"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
